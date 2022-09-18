@@ -9,8 +9,8 @@ public class SumDigitsofNumbers {
         Scanner s = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
-
         int number = s.nextInt();
+        
         int total = 0;
 
         do {
